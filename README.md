@@ -4,7 +4,7 @@ All implementations are based on http://deeplearning.net/tutorial/contents.html
 
 Models:
 - [x] Logistic Regression
-- [ ] Multilayer Perceptron
+- [x] Multilayer Perceptron
 - [ ] Convolutional Network (LeNet)
 - [ ] Denoising Autoencoder (dA)
 - [ ] Stacked Denoising Autoencoders (SdA)
